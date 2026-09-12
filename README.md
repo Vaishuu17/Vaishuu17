@@ -2,7 +2,7 @@
 <h3 align="center">SQL Developer | Data Analyst | Database & Reporting</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=SQL+Developer+%7C+Data+Analyst;Turning+Raw+Data+into+Actionable+Insights;B.Tech+AI+%26+Data+Science+Student;Incoming+Data+Visualization+Intern+%40+Infosys+Springboard" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=SQL+Developer+%7C+Data+Analyst;Turning+Raw+Data+into+Actionable+Insights;B.Tech+AI+%26+Data+Science+Student;Data+Visualization+%7C+Power+BI+%7C+Tableau" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <a href="https://github.com/Vaishuu17">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:vaishnavisthakur4@gmail.com">
+  <a href="mailto:thakurvaishnavi1706@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -27,7 +27,7 @@
 - 📊 Skilled in **MySQL, PostgreSQL, Power BI, Tableau, Python, and dashboard/reporting tools**
 - 🌐 Cross-functional experience contributing to **full-stack, AI-powered web platforms**
 - 📍 Based in Jalgaon, Maharashtra, India
-- 📫 Reach me at **vaishnavisthakur4@gmail.com** | 🔗 [Connect on LinkedIn](https://linkedin.com/in/vaishnavi-s-thakur-b8a4b9333)
+- 📫 Reach me at **thakurvaishnavi1706@gmail.com** | 🔗 [Connect on LinkedIn](https://linkedin.com/in/vaishnavi-s-thakur-b8a4b9333)
 
 ---
 
@@ -163,7 +163,7 @@ Godavari College of Engineering, Jalgaon | Aug 2023 – Aug 2027 | CGPA: 8.5/10.
   <a href="https://linkedin.com/in/vaishnavi-s-thakur-b8a4b9333">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:vaishnavisthakur4@gmail.com">
+  <a href="mailto:thakurvaishnavi1706@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
