@@ -115,6 +115,25 @@
 - Trained a DecisionTreeClassifier on the UCI Bank Marketing dataset (45,000+ records, 16 features).
 - Identified top 3 predictive features; visualized decision tree and class distribution for stakeholder reporting.
 
+#### 🚢 [Age & Gender Distribution — Titanic Dataset](https://github.com/Vaishuu17/PRODIGY_DS_01)
+`Python` `Pandas` `Seaborn` `Matplotlib`
+- Visualized age and gender distribution on the Seaborn Titanic dataset to uncover demographic patterns and survival-related trends.
+- Applied univariate and bivariate analysis techniques to communicate insights through clear, publication-ready charts.
+
+#### 🧹 [Data Cleaning & EDA — Titanic Dataset](https://github.com/Vaishuu17/PRODIGY_DS_02)
+`Python` `Pandas` `EDA` `Data Cleaning`
+- Performed data cleaning (missing values, duplicates, formatting) and exploratory data analysis on the Titanic dataset from Kaggle.
+- Explored relationships between variables to identify patterns and trends, laying the groundwork for predictive modeling.
+
+#### 📱 [Social Media Sentiment Analysis](https://github.com/Vaishuu17/PRODIGY_DS_04)
+`Python` `Pandas` `Matplotlib` `NLP` `Sentiment Analysis`
+- Analyzed and visualized sentiment patterns in social media data to understand public opinion and attitudes toward specific topics and brands.
+- Categorized sentiment into positive, negative, and neutral classes and visualized distribution trends for reporting.
+
+#### 🐍 [Python Libraries Practice](https://github.com/Vaishuu17/PythonLiberaries)
+`Python` `Jupyter Notebook` `Pandas` `NumPy`
+- Hands-on practice notebooks exploring core Python data-handling libraries used across data analysis and machine learning workflows.
+
 ---
 
 ### 🤝 Collaborative Team Projects
