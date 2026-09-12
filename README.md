@@ -27,7 +27,7 @@
 - 📊 Skilled in **MySQL, PostgreSQL, Power BI, Tableau, Python, and dashboard/reporting tools**
 - 🌐 Cross-functional experience contributing to **full-stack, AI-powered web platforms**
 - 📍 Based in Jalgaon, Maharashtra, India
-- 📫 Reach me at **thakurvaishnavi1706@gmail.com** | 🔗 [Connect on LinkedIn](https://linkedin.com/in/vaishnavi-s-thakur-b8a4b9333)
+- 📫 Reach me at **thakurvaishnavi1786@gmail.com** | 🔗 [Connect on LinkedIn](https://linkedin.com/in/vaishnavi-s-thakur-b8a4b9333)
 
 ---
 
