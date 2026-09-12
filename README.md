@@ -22,12 +22,12 @@
 ### 🧑‍💻 About Me
 
 - 🎓 B.Tech in **Artificial Intelligence & Data Science**, Godavari College of Engineering, Jalgaon *(CGPA: 8.5/10.0)*
-- 💼 Incoming **Data Visualization Intern** @ **Infosys Springboard** (Mar 2026 – Present)
+- 💼 Completed **Data Visualization Internship** @ **Infosys Springboard**
 - 🔍 Hands-on experience in **relational database management, SQL query development, and data reporting**
-- 📊 Skilled in **MySQL, PostgreSQL, Python, and dashboard/reporting tools**
+- 📊 Skilled in **MySQL, PostgreSQL, Power BI, Tableau, Python, and dashboard/reporting tools**
 - 🌐 Cross-functional experience contributing to **full-stack, AI-powered web platforms**
 - 📍 Based in Jalgaon, Maharashtra, India
-- 📫 Reach me at **vaishnavisthakur4@gmail.com**
+- 📫 Reach me at **vaishnavisthakur4@gmail.com** | 🔗 [Connect on LinkedIn](https://linkedin.com/in/vaishnavi-s-thakur-b8a4b9333)
 
 ---
 
@@ -49,11 +49,22 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
 </p>
 
-**Visualization**
+**Visualization & BI Tools**
 <p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square" />
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white" />
+</p>
+
+**Data Analysis Tools**
+<p>
+  <img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Data%20Studio%20(Looker)-4285F4?style=flat-square&logo=looker&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square" />
+  <img src="https://img.shields.io/badge/ETL-4B8BBE?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data%20Cleaning-00758F?style=flat-square" />
 </p>
 
 **Web & Collaboration**
@@ -78,9 +89,9 @@
 
 ### 💼 Experience
 
-**Data Visualization Intern (Incoming)** — *Infosys Springboard* | Mar 2026 – Present
-- Building interactive dashboards and visual reports; data cleaning, transformation, and validation pipelines for business metrics.
-- Writing SQL queries for extraction/reporting and maintaining database documentation.
+**Data Visualization Intern** — *Infosys Springboard*
+- Built interactive dashboards and visual reports using Power BI, Tableau, and Excel; performed data cleaning, transformation, and validation for business and operational metrics.
+- Wrote SQL queries for data extraction and reporting, maintained database documentation, and collaborated with teams to translate data requirements into actionable insights.
 
 **Data Science Intern** — *Prodigy Infotech* | Aug 2025
 - Completed 4 end-to-end data science tasks on real-world relational datasets (10,000+ records) using Python, Pandas, and Scikit-learn.
